@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767db251f08444941941ff1982eff16d, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  LoaiVp: 0
+  ID: 7
+  TenVp: Co
+  Mota: 
+  Icon: {fileID: -903128836, guid: f23ca611841ae464abbdfcb5753711a7, type: 3}
+  ItemPrefab: {fileID: 6830115800616998185, guid: ca3ca03ab1011bb4d9d44994b0aedd85,
+    type: 3}
+  MaxStackSize: 99
+  stackable: 0
+  isSeed: 0

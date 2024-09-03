@@ -1,0 +1,4 @@
+repository "HEAS3D@GameIndie2D@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 348970da7a89457449bd9a313adb7b71, type: 3}
+  m_Name: Planted
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 68f163cb27518de47aa9ecb7ceaccb43, type: 2}
+  - {fileID: 11400000, guid: 75baaf3b312c95348879cf9bcc0cb1af, type: 2}
+  - {fileID: 11400000, guid: 81e5ccf00a22d7644b4230e4c68f4d70, type: 2}
+  - {fileID: 11400000, guid: fffe34e1771915041b2ac9a44d80177e, type: 2}
+  - {fileID: 11400000, guid: ce5d3078b2a74c545a66d27751918cd4, type: 2}
+  - {fileID: 11400000, guid: 41ba5b79f611b2640b1aa42c0604aadf, type: 2}
+  - {fileID: 11400000, guid: a1091c5c3248bdf42855a4be6b4b1466, type: 2}
+  - {fileID: 11400000, guid: 2a82e7fa8f0fd2c40854155660c8dc5c, type: 2}
+  - {fileID: 11400000, guid: 403cb08fe24aa314399968fb1204897b, type: 2}
+  - {fileID: 11400000, guid: b9982c5344eafe84893c4cb8eb355254, type: 2}
+  - {fileID: 11400000, guid: d7cfe6dc16b90bd4e8b1477ce4f4fee8, type: 2}
+  - {fileID: 11400000, guid: b5d6d8d7273f1f647bc7894158babf6a, type: 2}
+  - {fileID: 11400000, guid: b8eab93f887487e4ebfe92eda59ec457, type: 2}
+  - {fileID: 11400000, guid: 7d3ce3a094ed3954bb583e6952218c2e, type: 2}
+  - {fileID: 11400000, guid: 62de716fb5de46941b6d03f2314ab54d, type: 2}
+  - {fileID: 11400000, guid: 47327eee7d927dd439cca298fb9abb69, type: 2}
+  - {fileID: 11400000, guid: bdf614ff18795a5438e1129eb8a5044f, type: 2}
+  - {fileID: 11400000, guid: edcbfb658e82a594ebb8c61580e9691f, type: 2}
+  - {fileID: 11400000, guid: d4a8bac9b9d3cbe449635ae6c2de2854, type: 2}
+  - {fileID: 11400000, guid: a233df1073d7cfb4abbdfa5ee43ee318, type: 2}
+  - {fileID: 11400000, guid: 8afbd5d5e96241743952da731b498580, type: 2}
+  - {fileID: 11400000, guid: ab89bb558251a374585eedfe726e5431, type: 2}
+  - {fileID: 11400000, guid: 0592648c69807a44bbb322e6984d6a89, type: 2}
+  - {fileID: 11400000, guid: ca4e39994601dae488be5633f3fe3580, type: 2}
+  - {fileID: 11400000, guid: 849b591d23614be4a93e932f35a37140, type: 2}
+  - {fileID: 11400000, guid: dab3a387b3f4a674a8993363031ad31b, type: 2}
+  - {fileID: 11400000, guid: b1e3b96636ea33b4b8148a34c0f76b4e, type: 2}
+  - {fileID: 11400000, guid: 48766af3602f6fb438c03734ca8d577d, type: 2}
+  - {fileID: 11400000, guid: c32d4b68fdaef874c87499b1944f249e, type: 2}
+  - {fileID: 11400000, guid: b5962fd93e1206544a0e20551ac403d9, type: 2}
+  - {fileID: 11400000, guid: 9ae4609f897096e46820f488f2000467, type: 2}
+  - {fileID: 11400000, guid: 4c153c9391a2e644bb1aac1d32f925f2, type: 2}
+  - {fileID: 11400000, guid: 0ed21627e55b53243b1ce886b68471d0, type: 2}
+  - {fileID: 11400000, guid: ee92e8b3be358c947a56b0cec453a10f, type: 2}
+  - {fileID: 11400000, guid: 3d9ab9704fdf82b4299c69fca681fe6a, type: 2}
+  - {fileID: 11400000, guid: 57235ec712c89824a826374940445b44, type: 2}
+  - {fileID: 11400000, guid: 3c5a680a39c8e564aaa521b2fa70b871, type: 2}
+  - {fileID: 11400000, guid: 5f2253ea2c8e0fd40ab72da8f8c64ee0, type: 2}
+  - {fileID: 11400000, guid: 2ea5f4212f08d5942ae5e87f3298ef54, type: 2}
+  - {fileID: 11400000, guid: 21fdd6c14a8d97643a684d65002e1ac7, type: 2}
+  - {fileID: 11400000, guid: f1fff7238b568b24a8caf2176eecfee4, type: 2}
+  noPlant: 0
+  planted: 1
+  collectible: 0
+  collectibleCorn: 0
+  collectibleParsley: 0
+  collectiblePotato: 0
+  collectibleStrawberry: 0
+  collectibleTomato: 0

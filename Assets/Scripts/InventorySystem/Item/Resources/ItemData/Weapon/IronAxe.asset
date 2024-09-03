@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767db251f08444941941ff1982eff16d, type: 3}
+  m_Name: IronAxe
+  m_EditorClassIdentifier: 
+  LoaiVp: 1
+  ID: 0
+  TenVp: Iron Axe
+  Mota: Normal Axe
+  Icon: {fileID: 212320227, guid: b04eb3fc864b59f4993b67771da603a0, type: 3}
+  ItemPrefab: {fileID: 2071258140109080898, guid: 15105e28e9d40054aa53510e88bb972c,
+    type: 3}
+  MaxStackSize: 1
+  GoldValue: 1000
+  stackable: 0
+  isSeed: 0
+  isWeapon: 1

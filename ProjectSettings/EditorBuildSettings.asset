@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6b72885aad8fc7c4e9a6492f68263da7
+  - enabled: 1
+    path: Assets/Scenes/MenuSave.unity
+    guid: e28f6b1cedeccd447adc263ab538e1ec
+  - enabled: 1
+    path: Assets/Scenes/Bunny/BL 1.unity
+    guid: 746e8e1e8d8f0f34889ac86c4384e43d
+  - enabled: 0
+    path: Assets/Scenes/Bunny/BL.unity
+    guid: 76fddf5549faf6f4b8f44367c809bb51
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 96e925420fba94f4385f7ca79d74fa5c
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: 8c79a22ae1e197f42a46a61407229903
+  - enabled: 0
+    path: Assets/Scenes/Example/Bunny.unity
+    guid: 01b06821e20e81f44a9cd2675589a5a8
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: 63ad3426ac037564b8b27b63a5acf32c
+  - enabled: 0
+    path: Assets/Scenes/Scence2.unity
+    guid: a0ad92b5a175b68408ca8faa240ff333
+  - enabled: 0
+    path: Assets/Scenes/Dungeon.unity
+    guid: 9e01cbceba900414ca5a473a66d2b1cf
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f0d384af7a1579c4cbca51c00b926cbb,
+      type: 2}
